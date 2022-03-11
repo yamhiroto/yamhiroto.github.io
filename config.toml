@@ -1,24 +1,32 @@
-baseurl = "https://yamhiroto.github.io"
-title = "console-demo"
-theme = "hugo-theme-console"
+baseURL = "https://example.com"
 languageCode = "en-us"
+title = "Example YinYong Blog"
+theme = "yingyang"
+DefaultContentLanguage = "en"
+
+[author]
+  name = "Joway Wang"
+  homepage = "https://joway.io/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.cn]
+    contentDir = "content/cn"
+    languageName = "Chinese"
+    weight = 1
 
 [params]
-  # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+disqus = "joway" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
 
-  # Set the animation style -- https://animate.style/
-  # To disable animations, please remove or comment animationStyle parameter
-  animateStyle = "animated zoomIn fast" 
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
 
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
-  
-  [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+[[params.socials]]
+name = "About"
+link = "https://joway.io"
