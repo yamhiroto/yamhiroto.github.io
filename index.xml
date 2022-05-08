@@ -6,7 +6,35 @@
     <description>Recent content on Hiro Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://yamhiroto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://yamhiroto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting posts</title>
+      <link>http://yamhiroto.github.io/posts/interesting-posts/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://yamhiroto.github.io/posts/interesting-posts/</guid>
+      <description>SWE Career     A year ago I graduated from a bootcamp with 21 other people. Only 6 of us are working as SWEs today - [Reddit](https://www.reddit.com/r/cscareerquestions/comments/u23kix/a_year_ago_i_graduated_from_a_bootcamp_with_21/i4gnxf3?utm_medium=android_app&amp;amp;utm_source=share&amp;amp;context=3  Japan     Tokyo Replica Food - NYTimes Magazine  Entrepreneurship     Starter Story: Learn how people are starting successful businesses  </description>
+    </item>
+    
+    <item>
+      <title>Useful Tech resources</title>
+      <link>http://yamhiroto.github.io/posts/useful-tech-resources/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://yamhiroto.github.io/posts/useful-tech-resources/</guid>
+      <description>SQL     SQLZoo: The one I usually advise to friends who get started with SQL Selectstarsql SQL Murder Mystery: quick murder investigation using SQL, this one is rather fun SQLbolt bipp A Curious Moon - Big Machine: Learn PostgreSQL the way the pros do: on the job and under pressure 🌔 🚀 Medium-hard SQL interview Questions - HN Stratascratch SQL questions Leetcode Top 70 :requires Premium Leetcode account How does Database indexing work - HN  Tools     The Missing Semester of Your CS Education GIT immersion  Python     Jetbrains Academy / Hyperskill : Paid Courses / tight integration with PyCharm IDE The little book of Python Anti Patterns : How not to write Python Code Python builtins worth learning Understanding all of Python, through its builtins Python Design Patterns - HN Python Morsels: Free Trials / Write better Python code in 30 min each Week  Computer Science     Teach Yourself CS Arcane Algorithm Archive  Data Engineering     How Data Engineering Works - Youtube Data Engineering Wiki  BackEnd     Backend Developer Roadmap : Check the other roadmaps and guides !</description>
+    </item>
+    
+    <item>
+      <title>Useful Websites, Apps and Accessories</title>
+      <link>http://yamhiroto.github.io/posts/useful-websites/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://yamhiroto.github.io/posts/useful-websites/</guid>
+      <description>Websites    - [YOPMAIL](https://yopmail.com) : A disposable mail address (to keep your main one clean from any spams - [MULLVAD](https://mullvad.net/) : Useful VPN, also available on Smartphones and tablets (5e/Month) - [MINE](https://saymine.com/): to request deletion of personal data from websites  More TBA
+Chrome Extension    - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip): Tab organizer - [Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm): to block ads(instead of Adblock) - [Block Site](https://chrome.google.com/webstore/detail/block-site-website-blocke/eiimnmioipafcokbfikbljfdeojpcgbh): to be more productive - [Grammarly](https://chrome.</description>
+    </item>
+    
     <item>
       <title>Why this blog</title>
       <link>http://yamhiroto.github.io/posts/why-this-blog/</link>
