@@ -5,6 +5,7 @@
     <link>http://yamhiroto.github.io/fr/tags/</link>
     <description>Recent content in Tags on Hiro Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://yamhiroto.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <atom:link href="http://yamhiroto.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

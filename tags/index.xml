@@ -6,33 +6,42 @@
     <description>Recent content in Tags on Hiro Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://yamhiroto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yamhiroto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Personal</title>
-      <link>http://yamhiroto.github.io/tags/personal/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://yamhiroto.github.io/tags/personal/</guid>
+      <title>2023</title>
+      <link>http://yamhiroto.github.io/tags/2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/tags/2023/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>2024</title>
+      <link>http://yamhiroto.github.io/tags/2024/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/tags/2024/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Resources</title>
       <link>http://yamhiroto.github.io/tags/resources/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://yamhiroto.github.io/tags/resources/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tech</title>
       <link>http://yamhiroto.github.io/tags/tech/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://yamhiroto.github.io/tags/tech/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Personal</title>
+      <link>http://yamhiroto.github.io/tags/personal/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -5,6 +5,7 @@
     <link>http://yamhiroto.github.io/fr/series/</link>
     <description>Recent content in Series on Hiro Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://yamhiroto.github.io/fr/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <atom:link href="http://yamhiroto.github.io/fr/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

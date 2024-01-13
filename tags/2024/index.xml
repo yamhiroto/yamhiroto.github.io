@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on Hiro Yamakawa</title>
+    <link>http://yamhiroto.github.io/tags/2024/</link>
+    <description>Recent content in 2024 on Hiro Yamakawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yamhiroto.github.io/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 targets</title>
+      <link>http://yamhiroto.github.io/posts/targets-for-2024./</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/posts/targets-for-2024./</guid>
+      <description>Realistic goals I set myself for this year. Remember, Good thing takes time.&#xA;Work - Hard skill Complete the JAVA Mooc from Helsinki University (soon, currently part 10) Read Design Data Intensive Applications and Data Engineering Fundamentals Complete CS61b Complete Neetcode 75 Get better at System design Work on my poker face Personal Get my driving license (I know I know) Get 15 levels of wanikani. 20 ambitious. Roughly 20 days / level 10 session of meditation / month 1 blog every 2 months 0 cig.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,75 +6,56 @@
     <description>Recent content on Hiro Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://yamhiroto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yamhiroto.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interesting posts</title>
-      <link>http://yamhiroto.github.io/posts/interesting-posts/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://yamhiroto.github.io/posts/interesting-posts/</guid>
-      <description>SWE Career     A year ago I graduated from a bootcamp with 21 other people. Only 6 of us are working as SWEs today - Reddit  Japan     Tokyo Replica Food - NYTimes Magazine  Entrepreneurship     Starter Story: Learn how people are starting successful businesses  </description>
+      <title>2023 wrap up </title>
+      <link>http://yamhiroto.github.io/posts/2023-wrap-up/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/posts/2023-wrap-up/</guid>
+      <description>Here is a quick summary of what I achieved in 2023, what I&amp;rsquo;ve learned from it and my 2024 goals. Overall very happy with this year !&#xA;Successes Personal I&amp;rsquo;ve moved back to Helsinki in Feb 2023 after spending 5 months in Antwerp (Belgium). It was a fun experience, I will miss the cheap beers and the good fries ( Get drunk and filled for a tenner, unbeatable) . The Brick was a blast, joined it 3 days after I moved to Antwerp and would DEFINITELY recommend.</description>
     </item>
-    
+    <item>
+      <title>2024 targets</title>
+      <link>http://yamhiroto.github.io/posts/targets-for-2024./</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://yamhiroto.github.io/posts/targets-for-2024./</guid>
+      <description>Realistic goals I set myself for this year. Remember, Good thing takes time.&#xA;Work - Hard skill Complete the JAVA Mooc from Helsinki University (soon, currently part 10) Read Design Data Intensive Applications and Data Engineering Fundamentals Complete CS61b Complete Neetcode 75 Get better at System design Work on my poker face Personal Get my driving license (I know I know) Get 15 levels of wanikani. 20 ambitious. Roughly 20 days / level 10 session of meditation / month 1 blog every 2 months 0 cig.</description>
+    </item>
     <item>
       <title>Useful Tech resources</title>
       <link>http://yamhiroto.github.io/posts/useful-tech-resources/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://yamhiroto.github.io/posts/useful-tech-resources/</guid>
-      <description>SQL     SQLZoo: The one I usually advise to friends who get started with SQL Selectstarsql SQL Murder Mystery: quick murder investigation using SQL, this one is rather fun SQLbolt BIPP.io A Curious Moon - Big Machine: Learn PostgreSQL the way the pros do: on the job and under pressure 🌔 🚀 Medium-hard SQL interview Questions - HN Stratascratch SQL questions Leetcode Top 70 :requires Premium Leetcode account How does Database indexing work - HN  Tools     The Missing Semester of Your CS Education GIT immersion  Python     Jetbrains Academy / Hyperskill : Paid Courses / tight integration with PyCharm IDE The little book of Python Anti Patterns : How not to write Python Code Python builtins worth learning Understanding all of Python, through its builtins Python Design Patterns - HN Python Morsels: Free Trials / Write better Python code in 30 min each Week  Computer Science     Teach Yourself CS Arcane Algorithm Archive  Data Engineering     How Data Engineering Works - Youtube Data Engineering Wiki  BackEnd     Backend Developer Roadmap : Check the other roadmaps and guides !</description>
+      <description>There was an older version of this post previously available on this blog, but I wasn&amp;rsquo;t satisfied with it as it was becoming a mess.&#xA;I have decided to only list the websites here that I have personally used, enjoyed, and would recommend to others in real life (IRL).&#xA;You just got started SQL SQLZoo: The website I usually advise to friends or colleagues who are getting started with SQL. You should become comfortable with any of those exercises.</description>
     </item>
-    
-    <item>
-      <title>Useful Websites, Apps and Accessories</title>
-      <link>http://yamhiroto.github.io/posts/useful-websites/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://yamhiroto.github.io/posts/useful-websites/</guid>
-      <description>Websites    - [YOPMAIL](https://yopmail.com) : A disposable mail address (to keep your main one clean from any spams - [MULLVAD](https://mullvad.net/) : Useful VPN, also available on Smartphones and tablets (5e/Month) - [MINE](https://saymine.com/): to request deletion of personal data from websites  More TBA
-Chrome Extension    - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip): Tab organizer - [Ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm): to block ads(instead of Adblock) - [Block Site](https://chrome.google.com/webstore/detail/block-site-website-blocke/eiimnmioipafcokbfikbljfdeojpcgbh): to be more productive - [Grammarly](https://chrome.</description>
-    </item>
-    
     <item>
       <title>Why this blog</title>
       <link>http://yamhiroto.github.io/posts/why-this-blog/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://yamhiroto.github.io/posts/why-this-blog/</guid>
-      <description>Why this blog    You certainly ended up here while casually &amp;ndash;stalking&amp;ndash; checking my Linkedin Page and might be wondering what you will find here.
-I always wanted to start a blog for several reasons:
- I thought it would be fun Like you, a lot is going on up there and I want to keep my thoughts clear and organized on some subjects. I realized I had gathered a significant amount of web resources and I wanted to start organizing them: if they are not worth sharing, they are not worth keeping I &amp;ldquo;bombed&amp;rdquo; my first carrier in my early years (I am not that old) and I want to share all the lessons learned I wish someone had told me when I first graduated I want to be able to share a page on my subjects of interest with like-minded people and maybe start interesting (non/for-profit) projects together!</description>
+      <description>Why this blog You certainly ended up here while casually &amp;ndash;stalking&amp;ndash; browsing my LinkedIn page, and you might be wondering what&amp;rsquo;s in store.&#xA;I&amp;rsquo;ve always had the idea of starting a blog for a few reasons:&#xA;Firstly, I thought it would be enjoyable. Similar to you, there&amp;rsquo;s a lot happening in my mind, and I want to keep my thoughts organized on certain subjects. Recognizing that I&amp;rsquo;ve amassed a significant collection of web resources, I felt it was time to start organizing them.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>http://yamhiroto.github.io/about/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yamhiroto.github.io/about/</guid>
-      <description>Hello, I am Hiro(to)    Welcome to my page, this is my little place on the internet.
-If you&amp;rsquo;re wondering: I was born and bred in France, but both of my parents are Japanese. I learned how to balance those 2 cultures over time.
-I currently work in the Tech Industry as a Data Engineer / Analytics Engineer, but I initially started as a (Junior) Project Manager in the construction industry before brutally shifting my career path.</description>
+      <description>Hello, I am Hiro(to) Welcome to my page; this is my little place on the internet.&#xA;If you&amp;rsquo;re wondering: I was born and raised in France, but both of my parents are Japanese. I&amp;rsquo;ve learned how to balance these two cultures over time.&#xA;I currently work in the Tech Industry as a Data Engineer, but I initially started as a (Junior) Project Manager in the construction industry before making a significant shift in my career path.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>http://yamhiroto.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yamhiroto.github.io/contact/</guid>
-      <description>yam[dot]hiroto[at]gmail[dot]com
-I won&amp;rsquo;t share my phone number here, but you can send a mail or a message on Linkedin and I will see what I can do.</description>
+      <description>yam[dot]hiroto[at]gmail[dot]com&#xA;I won&amp;rsquo;t share my phone number here, but you can send a mail or a message on Linkedin and I will see what I can do.</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>http://yamhiroto.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yamhiroto.github.io/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
-    
   </channel>
 </rss>
